@@ -1,2 +1,2 @@
 # mavo
-Mavo storage repository
+Personal Mavo storage repository
