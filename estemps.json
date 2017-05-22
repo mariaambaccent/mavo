@@ -1,4 +1,12 @@
 {
-	"firstName": "Lea",
-	"lastName": "Verou"
+	"ingredients" : [
+		{
+			"patates" : [
+				"Nom" : "patates"
+			]
+			"tomaquets" : [
+				"Nom" : "tomàquets"
+			]
+		}
+	]
 }
