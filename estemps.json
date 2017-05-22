@@ -2,10 +2,14 @@
 	"ingredients" : [
 		{
 			"patates" : [
-				"Nom" : "patates"
-			]
+				{
+					"Nom" : "patates"
+				}
+			],
 			"tomaquets" : [
-				"Nom" : "tomàquets"
+				{
+					"Nom" : "tomàquets"
+				}
 			]
 		}
 	]
